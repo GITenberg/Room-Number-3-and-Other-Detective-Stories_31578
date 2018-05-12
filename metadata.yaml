@@ -1,0 +1,42 @@
+_repo: Room-Number-3-and-Other-Detective-Stories_31578
+_version: 0.1.0
+alternative_title: Room Number Three, and Other Detective Stories
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: Nna Katharine Green (1846-1935) was an American poet and novelist. She
+  was one of the first writers of detective fiction in America and distinguished herself
+  by writing well plotted, legally accurate stories (no doubt assisted by her lawyer
+  father). Born in Brooklyn, New York, her early ambition was to write romantic verse,
+  and she corresponded with Ralph Waldo Emerson. When her poetry failed to gain recognition,
+  she produced her first and best known novel, The Leavenworth Case (1878). She became
+  a bestselling author, eventually publishing about 40 books. She was in some ways
+  a pro.
+gutenberg_issued: '2010-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories, American'
+tableOfContents: Room number 3 -- Midnight in Beauchamp Row -- The ruby and the caldron
+  -- The little steel coils -- The staircase at Heart's Delight -- The amethyst box
+  -- The grey lady -- The thief -- The house in the mist.
+title: Room Number 3, and Other Detective Stories
+url: http://www.gutenberg.org/ebooks/31578
